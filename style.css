@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+     display: flex;
+     flex-direction: column;
+     min-height: 100vh;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .status{
+    text-align: center;
+    color: #333;
+    letter-spacing: 1px;
+    font-size: 30px;
+ }
+.find {
+
+   
+        padding: 11px 46px;
+   
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+        background: #2196f3;
+        border: none;
+        border-radius: 6px;
+        outline: none;
+        margin-top: 100px;
+		height: 48px;
+    
+       
+    }
+	/* #st{
+		font-size: 27px;
+    padding: 10px 20px;
+    letter-spacing: 1px;
+    color: red;
+	text-align:center;
+    border-radius: 10px;
+    border:1px solid navy;
+	} */
+
+ 
